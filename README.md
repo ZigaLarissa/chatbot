@@ -34,7 +34,7 @@ Below are sample interactions with the chatbot. Each conversation demonstrates t
 
 ## Chatbot Access
 
-watch a short [demo video](insert_video_link_here) showcasing the chatbot’s responses.
+watch a short [demo video](https://www.loom.com/share/b850fcdd5b10456b8baee31fc1963659?sid=1b8697da-af09-43d7-81e8-73214105c38a) showcasing the chatbot’s responses.
 
 ## Setup Instructions
 To get started with this project, follow these steps:
