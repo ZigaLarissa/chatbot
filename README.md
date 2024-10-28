@@ -10,7 +10,7 @@ The chatbot was trained to understand and respond to various conversational topi
 - Offer an accessible interface where anyone can chat with the bot and see language modeling in action.
 
 ## Dataset
-The model is trained on the [DailyDialog Dataset](https://aclanthology.org/I17-1099/), which includes multi-turn dialogues designed to represent daily interactions. You can download the dataset directly from [here](http://yanran.li/files/ijcnlp_dailydialog.zip).
+The model is trained on the [DailyDialog Dataset](https://aclanthology.org/I17-1099/), which includes multi-turn dialogues designed to represent daily interactions.
 
 ### Dataset Details:
 - **Topics**: Dialogues span various topics including personal life, health, work, and relationships.
