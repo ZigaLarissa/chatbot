@@ -21,24 +21,20 @@ The model is trained on the [DailyDialog Dataset](https://aclanthology.org/I17-1
 
 Below are sample interactions with the chatbot. Each conversation demonstrates the bot’s response style across different scenarios:
 
-**Example 1:**  
-![Conversation Example 1](images/conversation1.png)
+**Example 1: Acts**  
+![Conversation Example 1](images/1.png)
 
-**Example 2:**  
-![Conversation Example 2](images/conversation2.png)
+**Example 2: Emotions**  
+![Conversation Example 2](images/6.png)
 
-**Example 3:**  
-![Conversation Example 3](images/conversation3.png)
+**Example 3: Topics**  
+![Conversation Example 3](images/3.png)
 
 *Add your screenshots to the `images` folder and update these links accordingly.*
 
 ## Chatbot Access
 
-Interact with the chatbot via the Gradio link below:
-
-[**Launch Chatbot Demo**](insert_link_here)
-
-Or, watch a short [demo video](insert_video_link_here) showcasing the chatbot’s responses.
+watch a short [demo video](insert_video_link_here) showcasing the chatbot’s responses.
 
 ## Setup Instructions
 To get started with this project, follow these steps:
@@ -63,9 +59,8 @@ To launch the Gradio interface and start chatting with the bot:
 Once you run this command, Gradio will open a local interface where you can test the chatbot.
 
 ## Project Files and Structure
-- **data/**: Directory containing the DailyDialog dataset files.
-- **app.py**: Main script to launch the Gradio interface for interacting with the chatbot.
-- **train.py**: Script used to fine-tune the GPT-2 model on the DailyDialog dataset.
+- **dailydialog/**: Directory containing the DailyDialog dataset files.
+- **chatbot_training.py**: Script used to fine-tune the GPT-2 model on the DailyDialog dataset.
 - **model/**: Folder containing the trained model files and tokenizer.
 - **images/**: Contains conversation screenshots for README documentation.
 
